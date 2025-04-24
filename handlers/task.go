@@ -2,7 +2,8 @@ package handlers
 
 import (
 	"net/http"
-	"todo-api/models"
+
+	"github.com/mariapylkova/todo-api-go/models"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"

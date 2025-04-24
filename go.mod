@@ -1,6 +1,5 @@
 module github.com/mariapylkova/todo-api-go
 
-
 go 1.20
 
 require (

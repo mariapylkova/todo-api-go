@@ -2,7 +2,8 @@ package database
 
 import (
 	"log"
-	"todo-api/models"
+
+	"github.com/mariapylkova/todo-api-go/models"
 
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
